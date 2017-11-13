@@ -1,0 +1,13 @@
+*.class
+
+*.projects
+
+*.prefs
+
+*.project
+
+*.DS_Store
+
+*.settings
+
+*.classpath
