@@ -7,3 +7,8 @@
 *.project
 
 *.DS_Store
+
+*.settings
+
+*.classpath
+
